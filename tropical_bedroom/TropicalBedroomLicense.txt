@@ -1,0 +1,5 @@
+TropicalBedroom:
+Based on model by achmadsihab (https://sketchfab.com/3d-models/tropical-bedroom-0352e4be8f1b417ca22c43005feed83e)
+Built in blender, added instancing, cleaned geometry and materials by Matthew Oliver.
+Original by: achmadsihab
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)

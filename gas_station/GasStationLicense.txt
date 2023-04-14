@@ -1,0 +1,5 @@
+GasStation:
+Based on model by John_Constantine (https://sketchfab.com/3d-models/gas-stations-fixed-b6e9be9f475a4930865e281e02539dc6)
+Fixed duplicated overlapping surfaces by Guillaume Boisse.
+Original by: John_Constantine
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)

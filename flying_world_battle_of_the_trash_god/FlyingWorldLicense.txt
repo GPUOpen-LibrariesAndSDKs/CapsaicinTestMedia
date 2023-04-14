@@ -1,0 +1,5 @@
+FlyingWorld-BattleOfTheTrashGod:
+Based on model by burunduk (https://sketchfab.com/3d-models/flying-world-battle-of-the-trash-god-350a9b2fac4c4430b883898e7d3c431f)
+Built in blender and converted materials to gltf compatible by Matthew Oliver.
+Original by: burunduk
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)

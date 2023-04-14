@@ -1,0 +1,14 @@
+*.gltf  -text
+*.obj   -text
+*.objm  -text
+*.7z    binary
+*.bin   binary
+*.bmp   binary
+*.dds   binary
+*.exr   binary
+*.hdr   binary
+*.glb   binary
+*.jpg   binary
+*.png   binary
+*.tga   binary
+*.zip   binary
