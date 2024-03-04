@@ -1,0 +1,8 @@
+Sponza:
+Original modeled by Marko Dabrovic.
+Re-modeled by Frank Meinl at Crytek.
+Combined mask textures with diffuse texture, corrected the material mapping for the octagonal vases, and removed the long untextured banner in the middle of the atrium by Morgan McGuire.
+Cleaned up geometry, updated materials, added instancing and built in blender by Matthew Oliver.
+Original by: Frank Meinl, Crytek
+Based on: Morgan McGuire (https://casual-effects.com/data/)
+License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
